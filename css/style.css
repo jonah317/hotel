@@ -1,0 +1,77 @@
+header{
+    background-color: white;
+    height: 800px;
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 1500px;   
+}
+body{
+    background-color: rgb(227, 227, 241);
+}
+.newroom-button{
+    height: 45px;
+    width: 230px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
+
+main{
+    padding: 600px;
+}
+.table-spacing{
+    border-spacing: 40px;
+}
+.booked{
+    height: 35px;
+    width: 130px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(252, 145, 145);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vacant{
+    height: 35px;
+    width: 130px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(184, 247, 184);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.table-heading{
+    background-color: rgb(253, 237, 253);
+   
+}
+.table-spacing{
+    border-collapse: collapse; width:70%; border: 1px solid rgba(0, 0, 0, 0.167); height: 500px; font-family: Arial, Helvetica, sans-serif;
+    
+}
+button{
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    color: grey;
+    border: 2px;
+    background-color: white;
+    border-color: grey;
+    border-style: solid;
+    font-style: italic;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+
+
+
+
+
